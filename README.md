@@ -20,4 +20,4 @@ https://bolid.ru/production/orion/po-orion/po-integration/
 
 Создан для организации интеграции "Орион Про" с системами управления бизнес-процессами.
 
-URL демо-версии: ftp://ftp.bolid.ru/client/IntegrServDemoSetup.7z
+URL демо-версии: <ftp://ftp.bolid.ru/client/IntegrServDemoSetup.7z>
